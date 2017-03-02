@@ -1,3 +1,4 @@
+set visualbell
 set nocompatible		" be IMproved, required
 filetype off			" required
 
