@@ -49,6 +49,4 @@ map <leader>f :source ~/.vimrc<R>
 " Configure the color scheme of Vim.
 
 syntax on " Turn on syntax highlighting based on file type. 
-colorscheme onedark
-set background=dark
 set hidden
